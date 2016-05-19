@@ -11,6 +11,7 @@ gem 'bootstrap-will_paginate', '0.0.9'
 group :development, :test do
   gem 'sqlite3', '1.3.11'
   gem  'rspec-rails', '~> 3.0'
+  gem 'rspec-its', '1.0.0.pre'
 end
 
 group :test do
